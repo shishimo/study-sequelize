@@ -1,0 +1,9 @@
+{
+  "db": {
+    "username": "root",
+    "password": "",
+    "database": "study_sequelize",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
